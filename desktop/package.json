@@ -19,8 +19,8 @@
   },
   "keywords": [],
   "license": "ISC",
-  "homepage": "https://github.com/profdangarcia/ftr-second-challenge#readme",
-  "author": "Daniel Garcia <daniel.of@gmail.com>",
+  "homepage": "https://github.com/ftr-second-challenge#readme",
+  "author": "Rocketseat",
   "devDependencies": {
     "electron": "^33.2.0",
     "electron-builder": "^25.1.8",
@@ -47,7 +47,7 @@
     ],
     "linux": {
       "target": ["deb", "AppImage"],
-      "maintainer": "Daniel Garcia <daniel.of@gmail.com>"
+      "maintainer": "Rocketseat"
     },
     "win": {
       "target": ["nsis"]
